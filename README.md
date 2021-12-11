@@ -2,9 +2,10 @@
 ### About me
 - B3 student majoring policy and planning sciences at Tsukuba.
 - Currently studying about discrete mathematics.
-- Haven't been trained in stractured way about developing software...😓
-- Natural languages I can understand: Japanese (native), English (but not fluently...)
-- Computer languages I can read or write: Python, R, TeX/LaTeX (without expl3)
+- Haven't been trained in stractured way about developing software,  
+so not familiar with what is and how to use most of the function of GitHub...😓
+- Natural languages I can understand: Japanese (native), English (not fluently)
+- Computer languages I can read or write: Python, R, TeX/LaTeX (except expl3)
 <!--
 **tagacchy/tagacchy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
