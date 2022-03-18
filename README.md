@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 ### About me
-- B3 student majoring policy and planning sciences at University of Tsukuba.
-- Currently studying discrete mathematics.
+- Graduate student at the University of Tsukuba from this spring.
+- Studying discrete mathematics and its apprication.
 - Haven't been trained in stractured way about developing software,  
 so not familiar with what is and how to use most of the function of GitHub...😓
 - Natural languages I can understand: Japanese (native), English (not fluently)
