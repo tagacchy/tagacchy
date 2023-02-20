@@ -1,11 +1,9 @@
 <!-- ### Hi there 👋 -->
 ### About me
 - Graduate student at the University of Tsukuba (Apr. 2022&ndash;).
-- Studying some topics relevant combinatorics.
-- Haven't been trained in stractured way about developing software,  
-so not familiar with what is and how to use most of the function of GitHub...😓
+- Studying topics relevant combinatorics.
 - Natural languages I can understand: Japanese (native), English (a little)
-- Computer languages I can read or write: TeX/LaTeX, Julia, Python
+- Computer languages I can read or write: TeX/LaTeX, Julia, Python, Lua, R
 <!--
 **tagacchy/tagacchy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
