@@ -1,8 +1,8 @@
 <!-- ### Hi there 👋 -->
 ### About me
-- Graduate student at the University of Tsukuba (Apr. 2022&ndash;Mar.2024).
+- Graduate student at the University of Tsukuba (Apr. 2022&ndash;Mar. 2024).
 - Studying topics relevant combinatorics.
-- Natural languages I can understand: Japanese (native), English (a little)
+- Natural languages I understand: Japanese (native), English (a little)
 - Computer languages I can read or write: TeX/LaTeX, Julia, Python, Lua
 <!--
 **tagacchy/tagacchy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
